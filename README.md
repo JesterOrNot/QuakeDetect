@@ -1,0 +1,2 @@
+# QuakeDetect
+earthquake detecter
